@@ -38,8 +38,8 @@
     </repositories>
 
     <scm>
-        <connection>scm:git:git://github.com/alexandershmidt/TrackMate_CNNSpot_FIJI</connection>
-        <developerConnection>scm:git:git@github.com:alexandershmidt/TrackMate_CNNSpot_FIJI</developerConnection>
+        <connection>scm:git:git://github.com/alexandershmidt/FIJI_TrackMate_CNNSpot</connection>
+        <developerConnection>scm:git:git@github.com:alexandershmidt/FIJI_TrackMate_CNNSpot</developerConnection>
         <tag>HEAD</tag>
         <url>scm:git:git@github.com:alexandershmidt/TrackMate_CNNSpot_FIJI</url>
     </scm>
